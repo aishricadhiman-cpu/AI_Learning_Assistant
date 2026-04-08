@@ -148,6 +148,12 @@ ml_dl_tutor/
 ```
 
 ---
+#  AI Learning Assistant
+
+ **Live Demo:**  
+ [https://your-app-name.streamlit.app](https://ailearningassistant-oue6yx44ndrdseet66s6xa.streamlit.app/)
+
+---
 
 ##  Real-World Impact & Applications
 

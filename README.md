@@ -151,7 +151,7 @@ ml_dl_tutor/
 #  AI Learning Assistant
 
  **Live Demo:**  
- [https://your-app-name.streamlit.app](https://ailearningassistant-oue6yx44ndrdseet66s6xa.streamlit.app/)
+ [https://AI_learning_assistant.streamlit.app](https://ailearningassistant-oue6yx44ndrdseet66s6xa.streamlit.app/)
 
 ---
 

@@ -1,0 +1,27 @@
+# Document Loading
+pymupdf
+
+# LangChain Core
+langchain
+langchain-community
+langchain-experimental
+langchain-classic
+
+# LLM — Groq
+langchain-groq
+groq
+
+# Embeddings — HuggingFace
+langchain-huggingface
+sentence-transformers
+transformers
+
+# Vector Store
+chromadb
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+tqdm
+pathlib

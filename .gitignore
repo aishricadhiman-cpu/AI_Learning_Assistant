@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+logs/
+*.log
+.venv*
+test.py
+.DS_Store
+Thumbs.db
+
+data/books/
+ingest.py
